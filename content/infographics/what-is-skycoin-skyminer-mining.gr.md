@@ -15,11 +15,11 @@ categories = [
     length = 514918
 +++
 
-## A Skyminer? Are you kidding me?
+## Skyminer; Με κοροϊδεύεις;
 
-No, we are not kidding you. The Skyminer is no joke. It’s an advanced yet robust piece of hardware that we’re distributing all over the world. Built from scratch, this little fella will do amazing things!
+Όχι, δεν σου κάνουμε πλάκα. Το Skyminer δεν είναι αστείο. Είναι ένα προχωρημένο αλλά ισχυρό κομμάτι hardware που κάνουμε διανομή σε όλο τον κόσμο. Κατασκευασμενο από το μηδέν, αυτός ο μικρός φίλος θα κάνει καταπληκτικά πράγματα!
 
-* Meticulously built from the highest quality components.
-* Configured to be the backbone of the new decentralized internet, Skywire.
-* Allows operators to earn passive income as it powers the new Internet.
-* Acts as a specialized VPN.
+* Λεπτομερές κατασκευασμενο από εξαρτήματα της υψηλότερης ποιότητας.
+* Εχει ρυθμιστεί για να είναι η ραχοκοκαλιά του νέου αποκεντρωμένου διαδικτύου, Skywire.
+* Επιτρέπει στους χειριστές να κερδίζουν παθητικό εισόδημα καθώς τροφοδοτεί το νέο Διαδίκτυο.
+* Λειτουργεί ως ειδικευμένο VPN.
